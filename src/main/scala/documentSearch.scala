@@ -1,5 +1,3 @@
-package search
-
 import com.sun.tools.javac.util.StringUtils
 import org.apache.spark.sql.functions._
 import org.apache.log4j.{LogManager, Logger}
